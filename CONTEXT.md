@@ -19,8 +19,21 @@ Custom Full Theme Module untuk Odoo 19 yang ditujukan untuk online shop penjuala
 - Target segmen: Menengah ke atas yang menghargai kualitas dan estetika interior mobil
 - Tone: Sophisticated, clean, luxurious feel
 
+## Homepage Structure
+
+### Hero Section (Paling Prioritas)
+- Akan menggunakan **Parallax effect**
+- Menjadi kesan pertama yang kuat dan elegan
+
+### Section Lain yang Akan Menggunakan Motion Effect:
+- Kategori / Tipe Mobil
+- Best Seller
+- Why Us (Keunggulan)
+- Testimoni
+- CTA Section
+
 ## Open Questions
-- Struktur dan konten Homepage (khususnya penggunaan parallax & motion)
-- Halaman lain yang perlu didesain secara khusus
+- Detail implementasi Parallax di Hero Section
 - Color palette & Typography
 - Brand name & logo
+- Halaman lain yang perlu didesain secara khusus (Product page, Category, dll)
