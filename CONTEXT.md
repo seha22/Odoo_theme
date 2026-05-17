@@ -19,6 +19,20 @@ Custom Full Theme Module untuk Odoo 19 yang ditujukan untuk online shop penjuala
 - Target segmen: Menengah ke atas yang menghargai kualitas dan estetika interior mobil
 - Tone: Sophisticated, clean, luxurious feel
 
+## Design System
+
+### Color Palette (Premium & Elegan)
+
+| Role                | Hex Code   | Nama Warna       | Penggunaan                          |
+|---------------------|------------|------------------|-------------------------------------|
+| **Primary (Dark)**  | `#1A1F24`  | Deep Charcoal    | Background utama, header, footer    |
+| **Secondary**       | `#2E353B`  | Slate Charcoal   | Section background, hover           |
+| **Accent (Gold)**   | `#C9A962`  | Warm Gold        | Button, link, highlight             |
+| **Background Light**| `#F7F4EF`  | Warm Off-White   | Background halaman & section        |
+| **Text Primary**    | `#1A1F24`  | Deep Charcoal    | Judul & teks utama                  |
+| **Text Secondary**  | `#5C6369`  | Muted Grey       | Deskripsi & subtext                 |
+| **Border**          | `#D9D4CC`  | Warm Grey        | Divider & card border               |
+
 ## Homepage Structure
 
 ### Hero Section (Paling Prioritas)
@@ -34,7 +48,7 @@ Custom Full Theme Module untuk Odoo 19 yang ditujukan untuk online shop penjuala
 - CTA Section
 
 ## Open Questions
-- Detail implementasi Parallax & Motion di Hero Section
-- Color palette & Typography
+- Typography
+- Detail implementasi Parallax & Motion
 - Brand name & logo
-- Halaman lain yang perlu didesain secara khusus (Product page, Category, dll)
+- Halaman lain yang perlu didesain secara khusus
